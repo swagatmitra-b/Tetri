@@ -60,6 +60,7 @@ const cue = () => {
       console.log("game over");
       clearInterval(animate);
       gameOver.innerHTML = `<h1>Game Over. Your score was ${score}</h1>`
+      gameOver.style.display = "block";
       return;
     }
   }
