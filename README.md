@@ -1,2 +1,1 @@
-# Tetri
-Play it here
+Use all four arrow keys
